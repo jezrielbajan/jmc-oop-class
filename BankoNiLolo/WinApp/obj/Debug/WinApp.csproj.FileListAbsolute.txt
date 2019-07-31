@@ -1,0 +1,10 @@
+D:\OOP\BankoNiLolo\WinApp\bin\Debug\WinApp.exe.config
+D:\OOP\BankoNiLolo\WinApp\bin\Debug\WinApp.exe
+D:\OOP\BankoNiLolo\WinApp\bin\Debug\WinApp.pdb
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.exe
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.pdb
+D:\OOP\BankoNiLolo\WinApp\obj\Debug\WinApp.frmRegistration.resources
