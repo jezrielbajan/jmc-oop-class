@@ -42,8 +42,6 @@ namespace WinApp
             //to convert any value to string.
             //use .ToString() method
             MessageBox.Show(total.ToString());
-
-
         }
     }
 }
