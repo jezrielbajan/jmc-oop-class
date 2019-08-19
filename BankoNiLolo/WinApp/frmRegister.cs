@@ -26,7 +26,7 @@ namespace WinApp
         {
 
             BankAccount mb = new BankAccount();
-            mb.SaveAccount()
+            //mb.SaveAccount();
             if(MessageBox.Show("Are you Sure?", "Bank", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 this.Close();
