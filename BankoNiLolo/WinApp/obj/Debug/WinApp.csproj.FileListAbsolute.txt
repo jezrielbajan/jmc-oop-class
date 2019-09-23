@@ -19,3 +19,14 @@ C:\Users\JEZRIEL\Desktop\Bajan\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp
 C:\Users\JEZRIEL\Desktop\Bajan\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.exe.config
 C:\Users\JEZRIEL\Desktop\Bajan\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.exe
 C:\Users\JEZRIEL\Desktop\Bajan\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.pdb
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.exe.config
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.exe
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\bin\Debug\WinApp.pdb
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.frmCalculator.resources
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.frmRegistration.resources
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.exe
+D:\OOP\jmc-oop-class\BankoNiLolo\WinApp\obj\Debug\WinApp.pdb

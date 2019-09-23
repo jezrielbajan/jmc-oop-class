@@ -1,0 +1,7 @@
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\bin\Debug\TestingGround.exe.config
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\bin\Debug\TestingGround.exe
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\bin\Debug\TestingGround.pdb
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\obj\Debug\TestingGround.csprojAssemblyReference.cache
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\obj\Debug\TestingGround.csproj.CoreCompileInputs.cache
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\obj\Debug\TestingGround.exe
+D:\OOP\jmc-oop-class\BankoNiLolo\TestingGround\obj\Debug\TestingGround.pdb
