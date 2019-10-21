@@ -1,0 +1,16 @@
+{
+    "StudentList": {
+       "Student1": {
+          "FirstName": "Naruto",
+          "LastName": "Uzumaki"
+       },
+       "Student2": {
+          "FirstName": "Sakura",
+          "LastName": "Haruno"
+       },
+       "Student3": {
+          "FirstName": "Kakashi",
+          "LastName": "Malayko"
+       }
+    }
+ }

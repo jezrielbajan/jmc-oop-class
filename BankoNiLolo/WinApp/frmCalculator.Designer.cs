@@ -41,6 +41,7 @@
             this.txtVal1.Name = "txtVal1";
             this.txtVal1.Size = new System.Drawing.Size(200, 20);
             this.txtVal1.TabIndex = 0;
+            this.txtVal1.TextChanged += new System.EventHandler(this.txtVal1_TextChanged);
             // 
             // txtVal2
             // 
@@ -76,6 +77,8 @@
             this.btnShowTotal.Text = "Show Total";
             this.btnShowTotal.UseVisualStyleBackColor = true;
             this.btnShowTotal.Click += new System.EventHandler(this.btnShowTotal_Click);
+            this.btnShowTotal.MouseEnter += new System.EventHandler(this.btnShowTotal_MouseEnter);
+            this.btnShowTotal.MouseLeave += new System.EventHandler(this.btnShowTotal_MouseLeave);
             // 
             // frmCalculator
             // 
@@ -89,6 +92,7 @@
             this.Controls.Add(this.txtVal1);
             this.Name = "frmCalculator";
             this.Text = "Basic Math in C#";
+            this.Load += new System.EventHandler(this.frmCalculator_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

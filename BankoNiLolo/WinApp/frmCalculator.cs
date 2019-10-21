@@ -43,5 +43,25 @@ namespace WinApp
             //use .ToString() method
             MessageBox.Show(total.ToString());
         }
+
+        private void btnShowTotal_MouseEnter(object sender, EventArgs e)
+        {
+            btnShowTotal.Text = "Hoy GG";
+        }
+
+        private void btnShowTotal_MouseLeave(object sender, EventArgs e)
+        {
+            btnShowTotal.Text = "Show Total";
+        }
+
+        private void txtVal1_TextChanged(object sender, EventArgs e)
+        {
+            txtVal2.Text = txtVal1.Text;
+        }
+
+        private void frmCalculator_Load(object sender, EventArgs e)
+        {
+            txtVal1.Text = "Hello World";
+        }
     }
 }

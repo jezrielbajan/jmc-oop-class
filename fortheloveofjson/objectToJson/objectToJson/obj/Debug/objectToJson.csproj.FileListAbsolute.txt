@@ -1,0 +1,16 @@
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\objectToJson.exe.config
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\objectToJson.exe
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\objectToJson.pdb
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\Newtonsoft.Json.dll
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\Newtonsoft.Json.xml
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.csprojAssemblyReference.cache
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.Form1.resources
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.Properties.Resources.resources
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.csproj.GenerateResource.cache
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.csproj.CoreCompileInputs.cache
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.csproj.CopyComplete
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.exe
+D:\fortheloveofjson\objectToJson\objectToJson\obj\Debug\objectToJson.pdb
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\System.Data.SQLite.dll
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\System.Data.SQLite.xml
+D:\fortheloveofjson\objectToJson\objectToJson\bin\Debug\System.Data.SQLite.dll.config

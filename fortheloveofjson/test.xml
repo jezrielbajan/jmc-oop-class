@@ -1,0 +1,16 @@
+<StudentRecord>
+    <StudentList>
+        <Student1>
+            <FirstName>Naruto</FirstName>
+            <LastName>Uzumaki</LastName>
+        </Student1>
+        <Student2>
+            <FirstName>Sakura</FirstName>
+            <LastName>Haruno</LastName>
+        </Student2>
+        <Student3>
+            <FirstName>Kakashi</FirstName>
+            <LastName>Malayko</LastName>
+        </Student3>
+    </StudentList>
+</StudentRecord>
