@@ -36,10 +36,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.btnConvertTOJson = new System.Windows.Forms.Button();
             this.lstStudent = new System.Windows.Forms.ListView();
-            this.txtJsonResult = new System.Windows.Forms.TextBox();
             this.colStudentID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colLastName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colFirstName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.txtJsonResult = new System.Windows.Forms.TextBox();
+            this.btnDecrypt = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtStudentID
@@ -57,7 +58,7 @@
             this.txtLastname.Name = "txtLastname";
             this.txtLastname.Size = new System.Drawing.Size(601, 20);
             this.txtLastname.TabIndex = 0;
-            this.txtLastname.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.txtLastname.Click += new System.EventHandler(this.txtLastname_Click);
             // 
             // txtFirstName
             // 
@@ -117,14 +118,6 @@
             this.lstStudent.UseCompatibleStateImageBehavior = false;
             this.lstStudent.View = System.Windows.Forms.View.Details;
             // 
-            // txtJsonResult
-            // 
-            this.txtJsonResult.Location = new System.Drawing.Point(46, 204);
-            this.txtJsonResult.Multiline = true;
-            this.txtJsonResult.Name = "txtJsonResult";
-            this.txtJsonResult.Size = new System.Drawing.Size(691, 101);
-            this.txtJsonResult.TabIndex = 5;
-            // 
             // colStudentID
             // 
             this.colStudentID.Text = "StudentID";
@@ -140,11 +133,30 @@
             this.colFirstName.Text = "FirstName";
             this.colFirstName.Width = 253;
             // 
+            // txtJsonResult
+            // 
+            this.txtJsonResult.Location = new System.Drawing.Point(46, 204);
+            this.txtJsonResult.Multiline = true;
+            this.txtJsonResult.Name = "txtJsonResult";
+            this.txtJsonResult.Size = new System.Drawing.Size(691, 101);
+            this.txtJsonResult.TabIndex = 5;
+            // 
+            // btnDecrypt
+            // 
+            this.btnDecrypt.Location = new System.Drawing.Point(248, 139);
+            this.btnDecrypt.Name = "btnDecrypt";
+            this.btnDecrypt.Size = new System.Drawing.Size(75, 23);
+            this.btnDecrypt.TabIndex = 6;
+            this.btnDecrypt.Text = "Decrypt";
+            this.btnDecrypt.UseVisualStyleBackColor = true;
+            this.btnDecrypt.Click += new System.EventHandler(this.btnDecrypt_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(796, 543);
+            this.Controls.Add(this.btnDecrypt);
             this.Controls.Add(this.txtJsonResult);
             this.Controls.Add(this.lstStudent);
             this.Controls.Add(this.btnConvertTOJson);
@@ -175,6 +187,7 @@
         private System.Windows.Forms.ColumnHeader colLastName;
         private System.Windows.Forms.ColumnHeader colFirstName;
         protected internal System.Windows.Forms.ListView lstStudent;
+        private System.Windows.Forms.Button btnDecrypt;
     }
 }
 
